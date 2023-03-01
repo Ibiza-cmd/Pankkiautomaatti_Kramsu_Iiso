@@ -1,0 +1,4 @@
+6578
+1200
+
+ /* example txt file for pankkiautomaatti*/
